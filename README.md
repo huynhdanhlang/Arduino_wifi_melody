@@ -29,5 +29,6 @@
 - Arduino IDE(Download [here](https://www.arduino.cc/en/software))
 - Complie
 - Upload Arduino
+  + Unplug the TX and RX cords when loading the code to avoid errors
 - Enter 192.168.4.1 on browser
 - Enjoy!
