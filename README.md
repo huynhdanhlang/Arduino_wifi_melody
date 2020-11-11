@@ -9,8 +9,8 @@
 - Jumper Wire
 - LED
 - Speaker
-- BreadBoard
-- resistor
+- Breadboard
+- Resistor
 
 ## Setup
 
