@@ -14,7 +14,7 @@
 
 ## Setup
 
-| Arudino         | Shield ESP8266   |
+| Arduino         | Shield ESP8266   |
 | ----------------| ---------------- |
 | TX              | RX               |
 | RX              | TX               |
